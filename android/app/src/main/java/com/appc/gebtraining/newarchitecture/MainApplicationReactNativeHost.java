@@ -1,4 +1,4 @@
-package com.gebtraining.newarchitecture;
+package com.appc.gebtraining.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.gebtraining.BuildConfig;
-import com.gebtraining.newarchitecture.components.MainComponentsRegistry;
-import com.gebtraining.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.appc.gebtraining.BuildConfig;
+import com.appc.gebtraining.newarchitecture.components.MainComponentsRegistry;
+import com.appc.gebtraining.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

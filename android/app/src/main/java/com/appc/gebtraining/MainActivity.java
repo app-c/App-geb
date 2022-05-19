@@ -1,4 +1,4 @@
-package com.gebtraining;
+package com.appc.gebtraining;
 
 import android.os.Build;
 import android.os.Bundle;

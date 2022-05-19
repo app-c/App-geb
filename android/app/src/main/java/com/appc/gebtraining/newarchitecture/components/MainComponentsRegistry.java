@@ -1,4 +1,4 @@
-package com.gebtraining.newarchitecture.components;
+package com.appc.gebtraining.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
