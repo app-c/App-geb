@@ -57,16 +57,6 @@ export function HeaderContaponent({ title, type }: Props) {
             source={logo}
           />
         )}
-
-        {type === "tipo2" && (
-          <Image
-            style={{
-              width: RFPercentage(9),
-              height: RFPercentage(3),
-            }}
-            source={logo1}
-          />
-        )}
       </Header>
     </Container>
   );

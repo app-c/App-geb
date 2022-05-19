@@ -13,12 +13,11 @@ interface ProsHeader {
 
 export const Header = styled.View<ProsHeader>`
   width: 100%;
-  height: ${RFPercentage(8)}px;
   /* background-color: ${colors.secundary}; */
   align-items: center;
   justify-content: space-between;
-  padding: 8px 25px;
-  padding-top: ${Platform.OS === `ios` ? getStatusBarHeight() : 5}px;
+  padding: 0 25px 20px 25px;
+  padding-top: ${Platform.OS === `ios` ? getStatusBarHeight() : 25}px;
 
   flex-direction: row;
 
