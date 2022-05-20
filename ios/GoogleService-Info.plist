@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>508175556379-h399hln9ascr2ehrt71h36i12lktlmnv.apps.googleusercontent.com</string>
+	<string>508175556379-lvio14e3orgpro4av22jegjit39f7rg3.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.508175556379-h399hln9ascr2ehrt71h36i12lktlmnv</string>
+	<string>com.googleusercontent.apps.508175556379-lvio14e3orgpro4av22jegjit39f7rg3</string>
 	<key>API_KEY</key>
 	<string>AIzaSyDbwA4jT_Sx0a4iIZAD2jnGBl1TlbQebhc</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>org.name.gebtraining</string>
+	<string>com.app-c.appGeb</string>
 	<key>PROJECT_ID</key>
 	<string>appgeb</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:508175556379:ios:1f5a610319c153d877bdbe</string>
+	<string>1:508175556379:ios:5f4f25bc1d5e891e77bdbe</string>
 </dict>
 </plist>
