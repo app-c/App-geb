@@ -1,11 +1,9 @@
-import { Inicio } from "../pages/Inicio";
 import { Valide } from "../pages/ValidePresença";
 import { Profile } from "../pages/Profile";
 import { Consumo } from "../pages/Consumo";
 import { Indicaçoes } from "../pages/Indicaçes";
 import { FindUser } from "../pages/FindMembro";
 import { Inativo } from "../pages/ADM/Inativo";
-import { Classificaçao } from "../pages/Classificaçao";
 import { Ranking } from "../pages/ADM/Classificaçao";
 import { SingUp } from "../pages/ADM/CreateUser";
 import { ListPresenca } from "../pages/ADM/ListaPresenca";
